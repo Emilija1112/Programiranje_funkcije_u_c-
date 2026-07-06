@@ -1,1 +1,1 @@
-# Programiranje_funkcije_u_c-
+# Programiranje_funkcije_u_c++
